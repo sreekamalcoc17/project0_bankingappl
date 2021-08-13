@@ -1,0 +1,44 @@
+22:38:27.438 [main] INFO  - 1003logged in
+23:10:07.084 [main] INFO  - 1003 logged in
+23:10:07.103 [main] INFO  - 1003 trying to retrive the balance
+23:10:07.137 [main] INFO  - 1003 balance retrieval success.
+23:10:07.227 [main] INFO  - 10045 tried to login and failed.
+23:10:07.227 [main] INFO  - 1004 trying to retrive the balance
+23:10:07.257 [main] INFO  - 1004 balance retrieval success.
+10:39:06.724 [main] INFO  - 1003 logged in
+10:39:10.734 [main] INFO  - 1003 trying to retrive the balance
+10:39:10.773 [main] INFO  - 1003 balance retrieval success.
+13:26:40.069 [main] INFO  - 1003 logged in
+13:26:40.083 [main] INFO  - 1003 trying to retrive the balance
+13:26:40.111 [main] INFO  - 1003 balance retrieval success.
+13:26:40.203 [main] INFO  - 10045 tried to login and failed.
+13:26:40.203 [main] INFO  - 1004 trying to retrive the balance
+13:26:40.233 [main] INFO  - 1004 balance retrieval success.
+14:08:37.527 [main] INFO  - 1003 logged in
+14:08:51.110 [main] INFO  - 1003 trying to retrive the balance
+14:08:51.137 [main] INFO  - 1003 balance retrieval success.
+14:09:19.558 [main] INFO  - 1003 trying to retrive the balance
+14:09:19.585 [main] INFO  - 1003 balance retrieval success.
+14:09:19.620 [main] INFO  - 1003 trying to retrive the balance
+14:09:19.647 [main] INFO  - 1003 balance retrieval success.
+14:09:41.925 [main] INFO  - 1003 trying to retrive the balance
+14:09:41.952 [main] INFO  - 1003 balance retrieval success.
+14:09:41.984 [main] INFO  - 1003 trying to retrive the balance
+14:09:42.011 [main] INFO  - 1003 balance retrieval success.
+14:10:26.320 [main] INFO  - 1003 trying to retrive the balance
+14:10:26.347 [main] INFO  - 1003 balance retrieval success.
+14:10:26.380 [main] INFO  - 1003 trying to retrive the balance
+14:10:26.408 [main] INFO  - 1003 balance retrieval success.
+14:10:26.408 [main] INFO  - 1009 trying to retrive the balance
+14:10:26.436 [main] INFO  - 1009 balance retrieval success.
+14:10:58.169 [main] INFO  - 1003 trying to retrive the balance
+14:10:58.195 [main] INFO  - 1003 balance retrieval success.
+14:12:42.439 [main] INFO  - 1003 logged in
+14:12:42.443 [main] INFO  - 1003 trying to retrive the balance
+14:12:42.470 [main] INFO  - 1003 balance retrieval success.
+14:12:42.544 [main] INFO  - 10045 tried to login and failed.
+14:12:42.544 [main] INFO  - 1004 trying to retrive the balance
+14:12:42.571 [main] INFO  - 1004 balance retrieval success.
+22:31:50.577 [main] INFO  - 1003 logged in
+22:32:03.318 [main] INFO  - 1003 trying to retrive the balance
+22:32:03.349 [main] INFO  - 1003 balance retrieval success.
